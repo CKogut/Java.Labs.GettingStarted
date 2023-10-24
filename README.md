@@ -147,3 +147,5 @@ xcode-select --install
 * Visit [Postman's](https://www.postman.com/downloads/) download page.
 * Download the latest version (zip).
 * Drag and drop the application to the /Applications folder.
+
+//Read and acknowledged
